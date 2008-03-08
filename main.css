@@ -1,0 +1,39 @@
+body { 
+	background: transparent url(images/iron.jpg) repeat scroll 0%;
+	background-color: black;
+	color: white;
+}
+
+#wrap {
+	margin: 0pt auto;
+	width: 900px;
+}
+
+a { 
+	color: white;
+	text-decoration: none;
+	text-shadow: grey 4px 4px 1px;
+}
+
+#header {
+	font-size: 7em;
+	color: grey;
+	font-weight: bold;
+	letter-spacing: -10px;
+	text-align:center;
+	margin-top: 100px;
+	text-shadow: #333333 3px 4px 1px;
+}
+
+#coming_soon {
+	font-size: 3em;
+	text-align:center;
+	color: black;
+	font-weight: bold;
+	text-shadow: grey 4px 4px 1px;
+}
+
+#contact {
+	font-family: verdana;
+	text-align:center;
+}
