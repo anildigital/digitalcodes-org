@@ -33,6 +33,23 @@ a {
 	text-shadow: grey 4px 4px 1px;
 }
 
+#we_do {
+	font-size: 1.3em;
+	text-align:center;
+	color: black;
+	font-weight: bold;
+	text-shadow: grey 4px 4px 1px;
+}
+
+#place {
+	font-size: 1em;
+	text-align:center;
+	color: black;
+	font-weight: bold;
+  margin-bottom:5px;
+	text-shadow: grey 4px 4px 1px;
+}
+
 #contact {
 	font-family: verdana;
 	text-align:center;
